@@ -17,7 +17,7 @@ proxies:
   udp: true
   skip-cert-verify: true 
 
-  - name: VMESS vidio 80
+- name: VMESS vidio 80
   type: vmess
   server: quiz.int.vidio.com
   port: 443

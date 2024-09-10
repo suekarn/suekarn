@@ -16,3 +16,20 @@ proxies:
       Host: vmess-sg01.globalssh.xyz
   udp: true
   skip-cert-verify: true 
+
+- name: Vmess-DO1
+  type: vmess
+  server: quiz.vidio.com
+  port: 443
+  uuid: d7c408a4-3ceb-4829-91e2-a1b915c58c28
+  alterId: 0
+  cipher: auto
+  tls: true
+  servername: vmess-sg01.globalssh.xyz
+  network: ws
+  ws-opts: 
+   path: /vmess-ws
+   Headers: 
+      Host: vmess-sg01.globalssh.xyz
+  udp: true
+  skip-cert-verify: true

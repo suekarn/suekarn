@@ -2,7 +2,7 @@ proxies:
 
 - name: VMESS
   type: vmess
-  server: 104.22.4.240
+  server: quiz.vidio.com
   port: 443
   uuid: d7c408a4-3ceb-4829-91e2-a1b915c58c28
   alterId: 0

@@ -9,7 +9,7 @@ proxies:
     sni: trojan-sg01.globalssh.xyz
     network: ws
     ws-opts: 
-      path: /trojan-ws#Pasty-globalssh_trojan_ws
+      path: /trojan-ws
       headers: 
         Host: trojan-sg01.globalssh.xyz
     udp: true

@@ -1,18 +1,15 @@
 proxies:
 
-- name: VMESS
-  type: vmess
-  server: 104.22.4.240
-  port: 443
-  uuid: d7c408a4-3ceb-4829-91e2-a1b915c58c28
-  alterId: 0
-  cipher: auto
-  tls: true
-  servername: vmess-sg01.globalssh.xyz
-  network: ws
-  ws-opts: 
-   path: /vmess-ws
-   Headers: 
-      Host: vmess-sg01.globalssh.xyz
-  udp: true
-  skip-cert-verify: true
+  - name: TROJAN
+    server: quiz.vidio.com
+    port: 443
+    type: trojan
+    password: 49978b31-88c3-4cee-99c5-dc2b7223a8c4
+    skip-cert-verify: true
+    sni: trojan-sg01.globalssh.xyz
+    network: ws
+    ws-opts: 
+      path: /trojan-ws#Pasty-globalssh_trojan_ws
+      headers: 
+        Host: trojan-sg01.globalssh.xyz
+    udp: true

@@ -1,5 +1,4 @@
 proxies:
-
 - name: TRojan-ws1
   type: trojan
   server: quiz.int.vidio.com

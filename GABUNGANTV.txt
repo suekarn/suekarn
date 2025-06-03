@@ -1,3 +1,32 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">	
+</head>
+<body>
+<b>We know you. Don't do it</b>
+</body>
+</html>
+
+
+
+// ====================== i KNOW BRO YOUR ARE VERY PRO===================//
+
+// If you steal from me I will steal yours //
+
+
+// You can use it as your personal.  //
+
+#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/epg/refs/heads/main/guide.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/akkradet/epg/refs/heads/main/guide.xml" refresh="3600"
+# Join Telegram Group: https://t.me/iptvth
+# =======================================================
+# Playlist Name: My Playlist by Akkradet
+# Last Update: 2025-01-27 21:03:00 UTC+07 ICT
+# =======================================================
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png"
 
 #EXTINF:-1 tvg-url="" tvg-name="ID.1hjow9l" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="ℹ️| IPTVTH", IPTV THAILAND
@@ -12915,3 +12944,13 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=761037&e
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=761096&extension=m3u8
 #EXTINF:-1 tvg-id="HorseTV(src01).pt" tvg-name="Horse TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/horse-tv-it.png?raw=true" group-title="Equestrian",Horse TV
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=627523&extension=m3u8
+
+
+1hjow9l
+
+============================================================================
+
+#EXTM3U billed-msg="ID: 1hjow9l|UPDATE: 22-05-2025 19:21|IP:203.175.9.127" vod_library="https://vod-205.pages.dev/,https://ezy-iptv.vercel.app/123.m3u"
+
+
+
